@@ -11,10 +11,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: GitHub’s mascot, Octocat, has a name — it’s Mona! 🐙😸
 
-- 
-  ###Skills
   
-- <p align="center">
+  <h2>Skills</h2>
+  
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,java,html,css,js" />
   </a>
