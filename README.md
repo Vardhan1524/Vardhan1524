@@ -10,7 +10,10 @@
 - 📫 How to reach me: ksvardhan3@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: GitHub’s mascot, Octocat, has a name — it’s Mona! 🐙😸
-  #Skills
+
+- 
+  ###Skills
+  
 - <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,java,html,css,js" />
